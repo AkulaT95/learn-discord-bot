@@ -1,0 +1,22 @@
+{
+  "name": "learn-discord-bot",
+  "version": "1.0.0",
+  "description": "Learn how to make discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkulaT95/learn-discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkulaT95/learn-discord-bot/issues"
+  },
+  "homepage": "https://github.com/AkulaT95/learn-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
